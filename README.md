@@ -1,16 +1,16 @@
-<img  align="center" alt="Coding" width="1050" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img  align="center" alt="Coding" width="1050" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Pandey!;" />
 </h1>
 
-<h3 align="center">Hey there! I'm Cipher, a cyber voyager navigating the binary constellations. My mission? To safeguard the virtual universe, one line of code at a time. Buckle up—we're about to dive into the matrix! 🌐💻</h3>
+<h3 align="center">I'm Cipher, a cyber voyager navigating the binary constellations. My mission? To safeguard the virtual universe, one line of code at a time. Buckle up—we're about to dive into the matrix! 🌐💻</h3>
 
 <h3 align="center">A passionate Programmer & Ethical Hacker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit00712&label=Profile%20views&color=0e75b6&style=flat" alt="rohit00712" /> </p>
 
-- 🌱 I’m currently learning **Programming & Hacking**
+- 🌱 I’m currently learning **Programming & Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohit00712](https://github.com/rohit00712)
 
@@ -31,4 +31,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit00712&show_icons=true&locale=en&layout=compact" alt="rohit00712" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit00712&show_icons=true&locale=en" alt="rohit00712" /></p>
